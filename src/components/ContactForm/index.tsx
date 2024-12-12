@@ -39,7 +39,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
                 />
                 <ValidationType type="name" />
               </Col>
-              <Col span={24}>
+              <Col span={25}>
                 <Input
                   type="text"
                   name="email"
